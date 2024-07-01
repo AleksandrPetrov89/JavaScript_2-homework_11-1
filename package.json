@@ -1,0 +1,35 @@
+{
+  "name": "homework_11-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksandrPetrov89/JavaScript_2-homework_11-1.git"
+  },
+  "author": "Aleksandr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleksandrPetrov89/JavaScript_2-homework_11-1/issues"
+  },
+  "homepage": "https://github.com/AleksandrPetrov89/JavaScript_2-homework_11-1#readme",
+  "description": "",
+  "devDependencies": {
+    "@babel/cli": "^7.24.7",
+    "@babel/core": "^7.24.7",
+    "@babel/preset-env": "^7.24.7",
+    "@eslint/config-array": "^0.17.0",
+    "@eslint/object-schema": "^2.1.4",
+    "@stylistic/eslint-plugin-js": "^2.3.0",
+    "babel-jest": "^29.7.0",
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1",
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "core-js": "^3.37.1"
+  }
+}
